@@ -1,7 +1,7 @@
 <!------------ 
      Declare two integer variables with values of 54, 38. Use arithmetic operation.
      Output:
-          Addition of two values: (92)
+          Addition of two values: 92
           Division of two values: 1.4210526315789
           Subtraction of two values: $16
           Multiplication of two values: #2052#
