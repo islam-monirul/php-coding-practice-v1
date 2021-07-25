@@ -7,7 +7,7 @@
           Your input is a consonant
 -------------------------------->
 <?php
-     //declaring iteration variable
+     //declaring value
      $alphabet = 'i';
 
      //find vowel or not
